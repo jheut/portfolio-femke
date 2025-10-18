@@ -1,10 +1,11 @@
 :root {
   color-scheme: light dark;
-  --bg: #ffffff;
-  --bg-dark: #000000;
-  --outline: #ffffff;
+
+  --bg: #fff;
+  --bg-dark: #000;
+  --outline: #fff;
   --font:
-    system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
+    system-ui, "Segoe UI", roboto, helvetica, arial, sans-serif,
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
