@@ -1,7 +1,6 @@
 {
-  "name": "eva-astro-starter",
-  "type": "module",
-  "version": "0.0.1",
+  "name": "femkemaakt-portfolio",
+  "version": "1.0.0",
   "scripts": {
     "preinstall": "npx only-allow pnpm",
     "prepare": "husky",
